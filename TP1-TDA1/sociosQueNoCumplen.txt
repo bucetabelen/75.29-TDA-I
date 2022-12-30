@@ -1,0 +1,4 @@
+1,Homero Simpson,2,3,4
+2,Marge Simpson,1,3,4 
+3,Bart Simpson,1,2,4 
+4,Lisa Simpson,1,2,3
